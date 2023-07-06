@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "78cc79e9a5cd7cef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SASS & SCSS NOTES.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JS notes/Objects.md",
+                "file": "SASS & SCSS NOTES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JS notes/Objects.md",
+                "file": "SASS & SCSS NOTES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JS notes/Objects.md"
+                "file": "SASS & SCSS NOTES.md"
               }
             }
           }
@@ -146,15 +159,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e2513d7848dce400",
+  "active": "78cc79e9a5cd7cef",
   "lastOpenFiles": [
+    "JS notes/Objects.md",
+    "SASS & SCSS NOTES.md",
     "README.md",
     "tutorials-and-presets/README.md",
     "tutorials-and-presets",
     "JS Tutorials/How to use specific item of an .json file.md",
     "How to use .json data in Vite Vanilla.md",
     "presets/Tailwind Presets.md",
-    "JS notes/Objects.md",
     "Overview.md",
     "JS notes",
     "presets",
