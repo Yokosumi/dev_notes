@@ -197,9 +197,10 @@
   },
   "active": "da6101a298ec2325",
   "lastOpenFiles": [
+    "Overview.md",
+    "Vue/How to use JSX in Vite Vue.md",
     "Vue",
     "Vue/Vue Notes.md",
-    "Vue/How to use JSX in Vite Vue.md",
     "presets/Tailwind Presets.md",
     "how to put a footer at the bottom of the page centered.md",
     "Centering an element.md",
@@ -210,7 +211,6 @@
     "tutorials-and-presets",
     "JS Tutorials/How to use specific item of an .json file.md",
     "How to use .json data in Vite Vanilla.md",
-    "Overview.md",
     "JS notes",
     "presets",
     "JS Tutorials"
