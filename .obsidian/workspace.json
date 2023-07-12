@@ -30,9 +30,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "be1f56794a3c9054",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "presets/Tailwind Presets.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "018626b295539434",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vue/Vue Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "da6101a298ec2325",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vue/How to use JSX in Vite Vue.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -98,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SASS & SCSS NOTES.md",
+                "file": "Vue/How to use JSX in Vite Vue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SASS & SCSS NOTES.md",
+                "file": "Vue/How to use JSX in Vite Vue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SASS & SCSS NOTES.md"
+                "file": "Vue/How to use JSX in Vite Vue.md"
               }
             }
           }
@@ -159,16 +195,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "78cc79e9a5cd7cef",
+  "active": "da6101a298ec2325",
   "lastOpenFiles": [
-    "JS notes/Objects.md",
+    "Vue",
+    "Vue/Vue Notes.md",
+    "Vue/How to use JSX in Vite Vue.md",
+    "presets/Tailwind Presets.md",
+    "how to put a footer at the bottom of the page centered.md",
+    "Centering an element.md",
     "SASS & SCSS NOTES.md",
+    "JS notes/Objects.md",
     "README.md",
     "tutorials-and-presets/README.md",
     "tutorials-and-presets",
     "JS Tutorials/How to use specific item of an .json file.md",
     "How to use .json data in Vite Vanilla.md",
-    "presets/Tailwind Presets.md",
     "Overview.md",
     "JS notes",
     "presets",
