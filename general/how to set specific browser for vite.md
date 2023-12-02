@@ -13,7 +13,7 @@ write this line into your terminal:
 after that set the environment variable in the <span style="color:#00b0f0">vite.config.ts</span> or <span style="color:#ffc000">vite.config.js</span> file:
 
 ```TypeScript
-process.env.BROWSER = "your browser" (e.g: firefox, chrome)
+process.env.BROWSER = "your browser" // (e.g: firefox, chrome)
 ```
 
 --- 
