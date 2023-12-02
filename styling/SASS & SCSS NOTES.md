@@ -61,6 +61,53 @@ you can define mixins with the  `@mixins` rule, give it a name open curly-bracke
 
 ```
 
+## mixin example
+
+`@content`  at-rule enable code block for mixins
+
+```SCSS
+@mixin alert-text($color: #555, $border: 2px solid #333) {
+
+  background-color: $color;
+
+  color: black;
+
+  font-variant: small-caps;
+
+  padding: 0.5rem;
+
+  width: fit-content;
+
+  border: $border;
+
+  background-color: $color;
+
+  @content;
+
+}
+
+.error-text {
+  @include alert-text(tomato);
+
+}
+.info-text {
+
+  @include alert-text(lightblue, 2px dashed navy);
+
+}
+.normal-text {
+  @include alert-text(white, null);
+}
+
+.faded-text {
+  @include alert-text {
+    opacity: 0.5;
+    border: 0px;
+  }
+}
+```
+
+
 ### selectors in mixin
 
 additionally you can also put pseudo-elements like `:hover` , `:focus` , `:active` in a mixin to use it multiple times
@@ -96,7 +143,7 @@ a {
 
 ## ampersand (&)
 
-the `&` character references to the parent-selector, it is used when nesting selectors
+the `&` character references to the parent-selector, it is used when nesting selectors, it is used when a more specific selector is needed
 
 ```SCSS
 .container {
@@ -106,4 +153,18 @@ the `&` character references to the parent-selector, it is used when nesting sel
 }
 
 ```
+
+## 7-1 folder structure
+ 
+![[ohtheseven.png]]
+
+## using variables
+
+you need this star so you just can use the variables without delcare variables every time
+
+```scss
+	@use '/sass/base/variables' as *
+	
+```
+
 
